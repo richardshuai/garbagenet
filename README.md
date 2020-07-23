@@ -1,2 +1,2 @@
 # garbagenet
-Classifying types of trash for waste sorting
+Convolutional neural network to classifying types of trash
